@@ -7,6 +7,11 @@ defmodule Ascend do
   def leadership() do
     ["David Wurtzbacher", "Prasad Sristi"]
   end
+
+  def firms() do
+    ["Walter Shuffain", "Opsahl Dawson", "ATKG", "LevitZacks"]
+  end
 end
 
 IO.puts Ascend.leadership()
+IO.puts Ascend.firms()
