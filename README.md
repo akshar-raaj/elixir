@@ -1,3 +1,5 @@
+[![Elixir Language](https://img.shields.io/badge/Language-Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+
 ## What
 
 Elixir experiments.
@@ -24,6 +26,7 @@ Example:
 - Elixir tuples are better aligned with Python's list.
 - if/elif/else worflows can be best structured using `cond`.
 - Match scenarios are best structured using `case`.
+- Collection operations are frequently done with `Enums` and `Streams`.
 
 ## Philosophical and Architectural Learnings
 
