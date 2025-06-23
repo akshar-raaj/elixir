@@ -21,4 +21,9 @@ Following Elixir tutorials at [here](https://hexdocs.pm/elixir/introduction.html
 
 ### Immutability
 
-Memory efficiency, thanks to the immutable semantics of the language. 
+* It allows pure functions, with no side-effects.
+* Memory efficiency, thanks to the immutable semantics of the language. 
+
+### Declarative
+
+Elixir appears declarative while Python is imperative. In Elixir, you often say what you want instead of how you want it to happen.
