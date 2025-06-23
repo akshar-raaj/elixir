@@ -6,6 +6,12 @@ Elixir experiments.
 
 Following Elixir tutorials at [here](https://hexdocs.pm/elixir/introduction.html).
 
+Most examples in this repository are scripts, i.e exs files instead of ex, and supposed to be run using `elixir`.
+
+Example:
+
+  $ elixir map.exs
+
 ## Syntactical Learnings
 
 - String concatenation: `<>`
@@ -16,6 +22,8 @@ Following Elixir tutorials at [here](https://hexdocs.pm/elixir/introduction.html
 - Maps need `%{}` instead of simple `{}`.
 - Lists are implemented using Linked list, unlike Python's dynamic array implementation.
 - Elixir tuples are better aligned with Python's list.
+- if/elif/else worflows can be best structured using `cond`.
+- Match scenarios are best structured using `case`.
 
 ## Philosophical and Architectural Learnings
 
