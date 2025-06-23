@@ -14,6 +14,8 @@ defmodule Ascend do
   end
 
   def firms() do
+    # TODO: Change from list to a tuple.
+    # Fixed size collections should be tuples, variable sized collections should be lists.
     ["Walter Shuffain", "Opsahl Dawson", "ATKG", "LevitZacks"]
   end
 end
