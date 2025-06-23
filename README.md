@@ -10,7 +10,7 @@ Most examples in this repository are scripts, i.e exs files instead of ex, and s
 
 Example:
 
-  $ elixir map.exs
+    $ elixir map.exs
 
 ## Syntactical Learnings
 
