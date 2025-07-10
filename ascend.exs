@@ -9,6 +9,10 @@ defmodule Ascend do
   end
 
   # Functions are identified by their name + arity.
+  def leadership("Prasad Sristi") do
+    "Prasad Sristi is the CTO at Ascend"
+  end
+
   def leadership(name) do
     name
   end
