@@ -18,5 +18,11 @@ IO.puts("Rounded: #{rounded}")
 remainder = rem 10, 6
 IO.puts("Remainder: #{remainder}")
 
+# Integer division using div function
+quotient = div 20, 3
+IO.puts("Integer division (20 div 3): #{quotient}")
+
 truncated = trunc(3.5)
 IO.puts("Integer part of number: #{truncated}")
+
+
