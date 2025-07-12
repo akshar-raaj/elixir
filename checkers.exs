@@ -1,7 +1,6 @@
 integer = 10
 floating = 19.5
 string = "opsahl dawson"
-boolean = true
 list = ["odc", "atkg", "levit zacks"]
 keyword_list = [name: "sentient", address: "Hyderabad"]
 tuple = {1, 2, 3}
