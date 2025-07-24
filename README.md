@@ -4,6 +4,10 @@
 
 Elixir experiments.
 
+## Run Docker container
+
+    docker run --name ex-scripts -it -v .:/app --env-file .env elixir
+
 ## How
 
 Following Elixir tutorials at [here](https://hexdocs.pm/elixir/introduction.html).
